@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/CMakeFiles/bootloader
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/CMakeFiles/bootloader.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/CMakeFiles/bootloader-complete.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/myry/Documents/Github/tutotials/ESP-IDF_Tutorial/001_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
